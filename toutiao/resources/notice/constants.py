@@ -1,0 +1,5 @@
+# 系统公告分页默认每页数量 下限
+DEFAULT_ANNOUNCEMENT_PER_PAGE_MIN = 10
+
+# 系统公告默认每页数量 上限
+DEFAULT_ANNOUNCEMENT_PER_PAGE_MAX = 50
